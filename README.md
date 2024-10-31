@@ -8,7 +8,6 @@
 
 
 # springboot389在线装修管理系统
-# 0388springboot在线装修管理系统
 
 # 5.系统实现
 
